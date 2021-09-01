@@ -2,7 +2,7 @@
  *  File:           git-lab-program.cc
  *  Author:         Benjamin Folkens
  *  Date:           September 1st, 2021
- *  Description:     
+ *  Description:    Send "Hello Git!" to the terminal and returns 0.
  */
 
 #include <iostream>
